@@ -1,0 +1,16 @@
+body{
+height: 100%;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+background-image:url(../imagenes/imagen1.jpg);
+background-repeat:no-repeat;
+background-size: 100% 100%;
+background-attachment:fixed;
+}
+h1{
+text-transform: uppercase;
+background-image:url(../imagenes/images2.jpg);
+font-size:36px;
+padding-bottom:85px;
+width: 350px;
+color:  #FFFD06;	;
+}
